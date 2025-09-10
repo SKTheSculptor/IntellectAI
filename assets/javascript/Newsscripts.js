@@ -1,4 +1,4 @@
-const API_KEY = "86ce4e171a014c11b715e2f3f46463e7";
+const API_KEY = "your_api_key_here";
 const url = "https://newsapi.org/v2/everything?q=";
 const updateInterval = 60000; // Auto-update interval in milliseconds (e.g., 60000ms = 1 minute)
 
